@@ -1,6 +1,6 @@
 
 # Fun-Bots
-This repository is a collection of scripts I wrote for myself and my friends to surprise them and also to solve simple problems in our lives. These scripts are no longer deployed and do not contain client_id's, emails, passwords and phone numbers. Also they lack files like requirements and procfiles that are necessary to deploy on Heroku. When they were alive, they had their own private repositories with all of the necessary files and information, so in a sense that this repository is a graveyard for my old bot scripts. 
+This repository is a collection of scripts I wrote for myself and my friends to surprise them and also to solve simple problems in our lives. These scripts are no longer deployed and do not contain client_id's, tokens, emails, passwords and phone numbers. Also they lack files like requirements and procfiles that are necessary to deploy on Heroku. When they were alive, they had their own private repositories with all of the necessary files and information, so in a sense that this repository is a graveyard for my old bot scripts. 
 
 ## Reddit Game Bot
 This is a simple script that sends an encrypted question to a Reddit user every 30 minutes until he/she solves and sends back the correct answer. Implemented with Python and Reddit API wrapper [PRAW](https://praw.readthedocs.io/en/latest/). 
