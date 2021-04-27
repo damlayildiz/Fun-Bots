@@ -12,4 +12,4 @@ This is a simple script that everyday sends a SMS message with the top 3 posts t
 This is a simple script that sends a facebook message with a random greeting every morning. Implemented with Python and [Facebook chat API](https://fbchat.readthedocs.io/en/stable/).
 
 ## Happy Birthday Bot 
-This is a simple Discord bot for one of my servers. It replies to `!bday person-name` with a yes or no depending on whether today is the birthday of that person. Implemented with Python and [Discord API](https://discord.com/developers/docs/intro).
+This is a simple Discord bot for one of my servers. It replies to `!bday person-name` with a yes or no depending on whether today is the birthday of that person. Implemented with Javascript and [Discord API](https://discord.com/developers/docs/intro).
